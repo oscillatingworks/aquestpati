@@ -187,8 +187,7 @@ h4.lead {
 }
 
 p.lead {
-    text-align: justify;
-    text-justify: inter-word;
+    text-align: left;
 }
 
 /* Buttons */

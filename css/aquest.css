@@ -13,7 +13,7 @@ body {
 }
 
 body {
-    font-family: 'Arimo', sans-serif;
+    font-family: Helvetica Neue, Helvetica, 'Arimo', sans-serif;
     font-weight: 300;
 }
 
@@ -105,12 +105,6 @@ hr.dark {
 
 a.clean {
     color: #333;
-}
-
-/* oscillatingworks fonts */
-
-.oswfont {
-    font-family: 'Nixie One', cursive;
 }
 
 /* Header */
@@ -286,7 +280,7 @@ h4.lead {
 footer {
     padding: 100px 0;
     width: 100%;
-    font-family: 'Work Sans', sans-serif;
-    background-color: #D9F8FA;
+    font-family: Helvetica Neue, Helvetica, 'Arimo', sans-serif;
+    background-color: #ffe98d;
     background-size: cover;
 }

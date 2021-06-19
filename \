@@ -95,7 +95,6 @@ body {
 
 hr.small {
     max-width: 100px;
-    border-color: #4bfaf2;
 }
 
 hr.dark {
@@ -106,10 +105,6 @@ hr.dark {
 
 a {
     color: #f94392;
-}
-
-a:hover {
-    color: #4bfaf2;
 }
 
 /* Header */
@@ -186,11 +181,6 @@ h4.lead {
   box-shadow: 4px 6px 2px #FF5D73;
 }
 
-p.lead {
-    text-align: justify;
-    text-justify: inter-word;
-}
-
 /* Buttons */
 
 @media (min-width: 767px) {
@@ -252,13 +242,13 @@ p.lead {
 
 /* Selected Text */
 ::-moz-selection { /* Code for Firefox */
-  color: #f94392;
-  background: #4bfaf2;
+  color: #FFF;
+  background: #00B0FF;
 }
 
 ::selection {
-  color: #f94392;
-  background: #4bfaf2;
+  color: #FFF;
+  background: #00B0FF;
 }
 
 /* Typed Cursor */
